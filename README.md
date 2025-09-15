@@ -1,4 +1,6 @@
-# 👋 Hi there! Welcome to my GitHub space  
+# 👋 Hi there! Welcome to my GitHub space 💫
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%22Learning.+Coding.+Growing.+%F0%9F%8C%B1%22)](https://git.io/typing-svg)
 
 I'm **Guissella**, a **Junior Fullstack Web Developer**.  
 
