@@ -1,15 +1,31 @@
-## Hi there, I´m Guissella 👋
+## Hi there, Welcome to my GitHub space 💫
+ I´m **Guissella** 👋 a **Junior Fullstack Web Developer**.
 
-**guiss26/guiss26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Technologies I'm learning:
+🌐 **Frontend**
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- React
 
-Here are some ideas to get you started:
+⚙️ **Backend**
+- Node.js
+- Express
+- MySQL
+- MongoDB
 
-- 🔭 I’m currently working on learning fullstack
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🛠️ **Tools**
+- Git & GitHub
+
+## 📈 My goal
+To keep imporving every day as a develop and work on projects that combine **creativity, logic, and good programming practices**.
+
+## 🌱 Currently
+- Learning how to build fullstack projects.
+- Improving my skilss in JavaScript and React.
+- Practicing it and GitHub to collaborate on projects.
+
+## 📫 You can find me on
+- [Gmail](guissella584@gmail.com) 
+- [LinkedIn](https://www.linkedin.com/in/guissella-p%C3%A9rez/) 
 
