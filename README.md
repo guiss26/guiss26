@@ -43,6 +43,6 @@ To keep improving every day as a developer and work on projects that combine **c
 ---
 
 ## 📫 You can find me on
-- [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guissella584@gmail.com) 
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guissella584@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guissella-p%C3%A9rez/)  
 
